@@ -4,6 +4,6 @@
    src: url("Questrial-Regular.ttf");
 }
 
-h1 {
+* {
    font-family: 'Questrial';
 }
